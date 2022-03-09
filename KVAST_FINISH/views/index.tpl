@@ -202,8 +202,9 @@
             </a>
         </p>
     </newsonthesidesA>
+</conteinerA>
 
-    <!--elements in menu of page-->
+<!--elements in menu of page-->
 <div>
     <!--center alignment of elements-->
     <nav style="text-align: center">
@@ -268,5 +269,3 @@
         </b>
     </nav>
 </div>
-
-</conteinerA>
