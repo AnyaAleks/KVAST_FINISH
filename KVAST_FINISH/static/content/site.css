@@ -117,3 +117,73 @@ newstextA {
 conteinerA {
     display: flex; /*horizontal table*/
 }
+
+pS1 {
+    font-family: 'Georgia', Georgia, serif;
+    color: #323b42;
+    font-size: 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+/*for headings*/
+firstTitleS {
+    font-family: 'Acumin Pro Extra Light';
+    color: #323b42;
+    font-size: 30px;
+    margin-top: 30px; /*the amount of the offset from the upper edge of the element*/
+}
+
+/*for body text*/
+bodyTextS {
+    margin-top: 10px; /*the amount of the offset from the upper edge of the element*/
+    font-family: Acumin Pro Extra Light;
+    color: #323b42;
+    font-size: 20px;
+    text-align: justify; /*text alignment by width*/
+}
+
+/*to create a dotted line*/
+hr {
+    border: none; /*Sets the border style around the element*/
+    border-top: 1px dashed #000; /*allows you to simultaneously set the thickness, style and color of the border on top of the element*/
+}
+
+/*for buttons on the page*/
+.buttonS {
+    border-radius: 5px; /*rouding a rectangular button*/
+    border-color: #c50224; /*border color*/
+    color: #c50224; /*text on the button color*/
+    background: white;
+    text-decoration: none; /*disable link underlining*/
+    width: 100%;
+    text-align: center; /*text alignment by width*/
+    border: 2px solid #e34761; /*allows you to simultaneously set the thickness, style and color of the border*/
+    display: block; /*The element is shown as a block element.*/
+    padding-bottom: 10px; /*Sets the value of the field from the bottom edge of the element content.*/
+    padding-top: 10px; /*Sets the field value from the top edge of the element content.*/
+}
+
+/*for headings */
+textHeadingsS {
+    font-family: Acumin Pro Extra Light;
+    color: #323b42;
+    font-size: 20px;
+    margin-left: 40px; /*Sets the amount of indentation from the left edge of the element*/
+    margin-top: 15px; /*Sets the amount of indentation from the top edge of the element.*/
+}
+
+/*delimeter*/
+delimeterS {
+    width: 10%;
+}
+
+/*to separate pages into parts*/
+separateS {
+    width: 50%;
+}
+
+/*to place elements in blocks*/
+conteinerS {
+    display: flex; /*horizontal table*/
+}
