@@ -1,27 +1,29 @@
 % rebase('layout.tpl', title=title, year=year)
 
+<!--page header elements-->
 <div>
     <div style="display:flex; margin-top: 5px;">
+        <!--icon in the page header-->
         <img src = "static\Images\thingworxImages\unnamed.jpg" width = "80" hspace = "0">
-
+        <!--page title-->
         <pS1>
             thingworx
         </pS1>
     </div>
+    <!--line-->
     <hr>
-
 </div>
 
-<!---->
  
 <div style="display:block">
     <div>
-        
+        <!--the title of one of the subtopics-->
         <firsttitleS>
             Introduction to thingworx
         </firsttitleS>
     </div>
     <div>
+        <!--text on the page-->
         <bodyTextS>
             According to forecasts, the economic impact of the Internet of Things will reach $11.1 trillion by 2025. 
             ThingWorx helps companies to change their approach to work and competition in an intelligent network world, 
@@ -37,20 +39,25 @@
         </bodyTextS>
     </div>
 
+    <!--dotted line-->
     <hr>
     </hr>
 
     <div align="center"> 
+        <!--the title of one of the subtopics-->
         <firstTitleS>
             Specifications 
         </firstTitleS>
     </div>
 
+    <!--dotted line-->
     <hr>
     </hr>
 
+    <!--conteiner-->
     <conteinerS>
         <div>
+            <!--text on the page-->
             <bodyTextS>
                 &mdash; A modern and full-fledged platform <br><br>
                 &mdash; Model-based development provides 10 times faster deployment <br><br>
@@ -61,6 +68,7 @@
         </div>
 
         <div>
+            <!--image on the page-->
             <img src = "static\Images\thingworxImages\spec.png" width = "500" hspace = "0" style="margin-top: 10px;">
         </div>
     </conteinerS>
@@ -68,6 +76,7 @@
     <div>
         <bodyTextS>
             <p>
+                <!--a button with a link to go to another page-->
                 <a class = "buttonS" href="https://www.irisoft.ru/portfolio/?_front_software=thingworx" >
                     view thingworx implementation examples
                 </a>
@@ -76,18 +85,23 @@
     </div>
 </div>
 
+<!--container-->
 <conteinerS>
+    <!--dividing the page into 3 columns-->
     <separateS>
-
+        <!--image on the page-->
         <img src = "static\Images\thingworxImages\b1.png" width = "40" hspace = "0" style="margin-top: 20px;">
 
+        <!--title-->
         <textHeadingsS>
             SEARCH-BASED ANALYTICS
         </textHeadingsS>
 
+        <!--dotted line-->
         <hr>
         </hr>
 
+        <!--text on the page-->
         <bodyTextS>
             The ThingWorx SQUEAL platform (Search, Queries and Analysis) makes the search function available 
             in the world of intelligent network devices and distributed data. Using interactive search functions, 
@@ -98,20 +112,26 @@
         
     </separateS>
 
+    <!--empty column-->
     <delimeterS>
     </delimeterS>
 
+    <!--third column-->
     <separateS>
         
+        <!--image in the page-->
         <img src = "static\Images\thingworxImages\b2.png" width = "40" hspace = "0" style="margin-top: 20px;">
         
+        <!--title-->
         <textHeadingsS>
             COLLABORATION
         </textHeadingsS>
 
+        <!--dotted line-->
         <hr>
         </hr>
 
+        <!--text on the page-->
         <bodyTextS>
             The ThingWorx platform dynamically and virtually unites people, systems and network equipment,
             and interactive collaboration sessions help individual specialists and working groups
@@ -124,19 +144,23 @@
     </separateS>
 </conteinerS>
 
-
+<!--container-->
 <conteinerS>
+    <!--dividing the page into 3 columns-->
     <separateS>
-
+        <!--image on the page-->
         <img src = "static\Images\thingworxImages\b3.png" width = "40" hspace = "0" style="margin-top: 10px;">
 
+        <!--title-->
         <textHeadingsS>
             THINGWORX COMPOSER
         </textHeadingsS>
 
+        <!--dotted line-->
         <hr>
         </hr>
 
+        <!--text on the page-->
         <bodyTextS>
             A comprehensive application modeling environment that makes it easy to create unique applications in 
             today's interconnected world. ThingWorx Composer simplifies object and business logic modeling, 
@@ -144,20 +168,26 @@
         </bodyTextS>    
     </separateS>
 
+    <!--empty column-->
     <delimeterS>
     </delimeterS>
 
+    <!--third column-->
     <separateS>
-        
+
+        <!--image on the page-->
         <img src = "static\Images\thingworxImages\b4.png" width = "40" hspace = "0" style="margin-top: 10px;">
         
+        <!--title-->
         <textHeadingsS>
             NETWORK CAPABILITIES
         </textHeadingsS>
 
+        <!--dotted line-->
         <hr>
         </hr>
 
+        <!--text on the page-->
         <bodyTextS>
             ThingWorx's "unifying" network connectivity strategy minimizes integration efforts. The ThingWorx 
             platform supports connecting to devices using several methods, including third-party device clouds, 
@@ -167,18 +197,23 @@
     </separateS>
 </conteinerS>
 
+<!--container-->
 <conteinerS>
+    <!--dividing the page into 3 columns-->
     <separateS>
-
+        <!--image on the page-->
         <img src = "static\Images\thingworxImages\b5.png" width = "40" hspace = "0" style="margin-top: 10px;">
 
+        <!--title-->
         <textHeadingsS>
             MASHUP BUILDER
         </textHeadingsS>
 
+        <!--dotted line-->
         <hr>
         </hr>
 
+        <!--text on the page-->
         <bodyTextS>
             ThingWorx Mashup Builder with drag and drop function allows
             developers and business users to quickly create multifunctional 
@@ -195,20 +230,25 @@
         
     </separateS>
 
+    <!--empty column-->
     <delimeterS>
     </delimeterS>
 
+    <!--third column-->
     <separateS>
-        
+        <!--image on the page-->
         <img src = "static\Images\thingworxImages\b6.png" width = "40" hspace = "0" style="margin-top: 10px;">
         
+        <!--title-->
         <textHeadingsS>
             BUSINESS PROCESS MANAGEMENT
         </textHeadingsS>
 
+        <!--dotted line-->
         <hr>
         </hr>
 
+        <!--text on the page-->
         <bodyTextS>
             The ThingWorxIoT business process management component of the Platform automates 
             and manages events, processes and information exchange between physical devices, 
