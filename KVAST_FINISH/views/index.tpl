@@ -7,7 +7,7 @@
     <conteinerA>
 
         <!--image view-->
-        <img src = "static\images\new_2.png" width = "600" hspace = "0">
+        <img src = "static\images\newsStyle\newsHeader.png" width = "600" hspace = "0">
 
         <!--title of page-->
         <firsttitleA>
