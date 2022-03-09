@@ -37,6 +37,7 @@
     <Folder Include="static\content\" />
     <Folder Include="static\fonts\" />
     <Folder Include="static\Images\" />
+    <Folder Include="static\Images\thingworxImages\" />
     <Folder Include="static\Images\newsStyle\" />
     <Folder Include="static\Images\newsImages\" />
     <Folder Include="static\scripts\" />
