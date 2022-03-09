@@ -40,3 +40,80 @@ input[type="checkbox"].input-validation-error {
 .validation-summary-valid {
     display: none;
 }
+
+/*for first level headings*/
+firsttitleA {
+    font-family: STENCIL;
+    color: #c50224;
+    font-size: 30px;
+    margin-left: 350px; /*left distance*/
+}
+
+/*for second level headings*/
+secondtitleA {
+    font-family: STENCIL;
+    color: #c50224;
+    font-size: 20px;
+}
+
+/*for third level headings*/
+thirdtitleA {
+    font-family: Verdana;
+    color: #c50224;
+    font-size: 15px;
+}
+
+/*for separator lines in the menu at the bottom of the page*/
+menulineA {
+    color: #c50224;
+    font-size: 20px;
+}
+
+/*for buttons in the menu at the bottom of the page*/
+.menunumberButtonA {
+    font-family: STENCIL;
+    font-size: 20px;
+    color: #1f2a6a;
+    text-decoration: none; /*disable link underlining*/
+}
+
+/*for news blocks on the sides of the page*/
+newsonthesidesA {
+    width: 33.33333333333333%;
+}
+
+/*for news blocks in the center of the page*/
+newsinthecenterA {
+    width: 33.33333333333333%;
+    margin-left: 10px; /*left distance*/
+    margin-right: 10px; /*right distance*/
+}
+
+/*for dates*/
+dateA {
+    color: gray;
+    face: Verdana; /*font*/
+    size: 1;
+}
+
+/*for all buttons on the page*/
+.buttonA {
+    border-radius: 5px; /*rouding a rectangular button*/
+    border: 1px; /*button border thickness*/
+    solid #c50224; /*border color*/
+    color: #c50224; /*text on the button color*/
+    background: white;
+    text-decoration: none; /*disable link underlining*/
+}
+
+/*for large volume of text*/
+newstextA {
+    margin-top: 10px; /*top distance*/
+    font-family: Verdana;
+    color: #1f2a6a;
+}
+
+/*to place elements in blocks*/
+conteinerA {
+    display: flex; /*horizontal table*/
+}
