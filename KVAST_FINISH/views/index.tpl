@@ -203,3 +203,69 @@
         </p>
     </newsonthesidesA>
 </conteinerA>
+
+<!--elements in menu of page-->
+<div>
+    <!--center alignment of elements-->
+    <nav style="text-align: center">
+        <!--bold style-->
+        <b>
+            <!--link to first page-->
+            <a class="menunumberButtonA" href="https://worldskills.ru/media-czentr/novosti/?page=1">
+            1
+            </a>
+
+            <!--dividing line-->
+            <menulineA>
+            |
+            </menulineA>
+        </b>
+
+        <!--bold style-->
+        <b>
+            <!--link to second page-->
+            <a class="menunumberButtonA" href="https://worldskills.ru/media-czentr/novosti/?page=2">
+            2
+            </a>
+
+            <!--dividing line-->
+            <menulineA>
+            |
+            </menulineA>
+        </b>
+
+        <!--bold style-->
+        <b>
+            <!--link to third page-->
+            <a class="menunumberButtonA" href="https://worldskills.ru/media-czentr/novosti/?page=3">
+            3
+            </a>
+
+            <!--dividing line-->
+            <menulineA>
+            |
+            </menulineA>
+        </b>
+
+        <!--bold style-->
+        <b>
+            <!--link to fourth page-->
+            <a class="menunumberButtonA" href="https://worldskills.ru/media-czentr/novosti/?page=4">
+            4
+            </a>
+
+            <!--dividing line-->
+            <menulineA>
+            |
+            </menulineA>
+        </b>
+
+        <!--bold style-->
+        <b>
+            <!--link to fifth page-->
+            <a class="menunumberButtonA" href="https://worldskills.ru/media-czentr/novosti/?page=5">
+            5
+            </a>
+        </b>
+    </nav>
+</div>
