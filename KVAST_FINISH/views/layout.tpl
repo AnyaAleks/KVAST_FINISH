@@ -24,7 +24,7 @@
                 <ul class="nav navbar-nav">
                     
                     <li><a href="/blockchain">Blockchain</a></li>
-                    <li><a href="/contact">Thingworx</a></li>
+                    <li><a href="/thingworx">Thingworx</a></li>
                 </ul>
             </div>
         </div>
