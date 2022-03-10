@@ -23,7 +23,7 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     
-                    <li><a href="/about">Blockchain</a></li>
+                    <li><a href="/blockchain">Blockchain</a></li>
                     <li><a href="/contact">Thingworx</a></li>
                 </ul>
             </div>
