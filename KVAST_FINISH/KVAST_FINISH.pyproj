@@ -37,6 +37,7 @@
     <Folder Include="static\content\" />
     <Folder Include="static\fonts\" />
     <Folder Include="static\Images\" />
+    <Folder Include="static\Images\img_blockchain\" />
     <Folder Include="static\Images\thingworxImages\" />
     <Folder Include="static\Images\newsStyle\" />
     <Folder Include="static\Images\newsImages\" />
@@ -52,6 +53,18 @@
     <Content Include="static\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="static\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="static\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="static\Images\img_blockchain\2.png" />
+    <Content Include="static\Images\img_blockchain\bl.png" />
+    <Content Include="static\Images\img_blockchain\block.jpg" />
+    <Content Include="static\Images\img_blockchain\blockchain.png" />
+    <Content Include="static\Images\img_blockchain\block_.jpg" />
+    <Content Include="static\Images\img_blockchain\devb.png" />
+    <Content Include="static\Images\img_blockchain\dizhital.jpg" />
+    <Content Include="static\Images\img_blockchain\ibm.jpg" />
+    <Content Include="static\Images\img_blockchain\logo.png" />
+    <Content Include="static\Images\img_blockchain\png-clipart-blockchain-cryptocurrency-bitcoin-nem-initial-coin-offering-bitcoin-blockchain-cryptocurrency.png" />
+    <Content Include="static\Images\img_blockchain\preview - case.jpg" />
+    <Content Include="static\Images\img_blockchain\udemy.png" />
     <Content Include="static\Images\newsImages\mynew_1.png" />
     <Content Include="static\Images\newsImages\mynew_2.png" />
     <Content Include="static\Images\newsImages\mynew_3.png" />

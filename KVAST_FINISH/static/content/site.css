@@ -185,5 +185,49 @@ separateS {
 
 /*to place elements in blocks*/
 conteinerS {
-    display: flex; /*horizontal table*/
+    display: flex;
+}
+/*horizontal table*/
+
+ /*страница Камиллы*/
+  /*элемент для размецения информации*/
+
+.jumbotron {
+    padding: 200px;
+    margin-bottom: 100px;
+    font-family: Verdana;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 2.1428571435;
+    color: black;
+    background: rgba(204, 204, 204, 0.5);
+    /*background-color: #cbe43b;*/
+}
+
+.jumbotron {
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+.container .jumbotron {
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.jumbotron h1 {
+    font-size: 63px;
+}
+/*стиль заголовка*/
+hK {
+    font-family: STENCIL;
+    color: #c50224;
+    font-size: 30px;
+    margin-left: 100px;
+}
+/*стиль кнопки*/
+.button_ {
+    border-radius: 4px;
+    border: 1px solid #c50224;
+    color: #c50224;
+    background: white
 }
