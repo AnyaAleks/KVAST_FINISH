@@ -217,14 +217,14 @@ conteinerS {
 .jumbotron h1 {
     font-size: 63px;
 }
-/*стиль заголовка*/
+/*Header style*/
 hK {
     font-family: STENCIL;
     color: #c50224;
     font-size: 30px;
     margin-left: 100px;
 }
-/*стиль кнопки*/
+/*Button style with border*/
 .button_ {
     border-radius: 4px;
     border: 1px solid #c50224;

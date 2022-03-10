@@ -56,7 +56,7 @@
         <!--new paragraph-->
         <p>
             <!--go to similar page-->
-            <a class = "buttonA" href="https://worldskills.ru/media-czentr/novosti/razrabotka-czifrovoj-odezhdyi-i-batlyi-dizajnerov-na-vyistavke-%C2%ABinlegmash%C2%BB-projdet-trenirovka-naczsbornoj-worldskills-russia.html">
+            <a class="button_  btn-default" href="https://worldskills.ru/media-czentr/novosti/razrabotka-czifrovoj-odezhdyi-i-batlyi-dizajnerov-na-vyistavke-%C2%ABinlegmash%C2%BB-projdet-trenirovka-naczsbornoj-worldskills-russia.html">
                 Learn more &raquo;
             </a>
         </p>
@@ -83,7 +83,7 @@
         <!--new paragraph-->
         <p>
             <!--go to similar page-->
-            <a class = "buttonA" href="https://worldskills.ru/media-czentr/novosti/naczionalnyij-chempionat-worldskills-hi-tech-budet-proxodit-v-sverdlovskoj-oblasti-eshhe-5-let.html">
+            <a class="button_  btn-default" href="https://worldskills.ru/media-czentr/novosti/naczionalnyij-chempionat-worldskills-hi-tech-budet-proxodit-v-sverdlovskoj-oblasti-eshhe-5-let.html">
                 Learn more &raquo;
             </a>
         </p>
@@ -110,7 +110,7 @@
         <!--new paragraph-->
         <p>
             <!--go to similar page-->
-            <a class = "buttonA" href="https://worldskills.ru/media-czentr/novosti/na-karernom-forume-%C2%ABtrud-krut%C2%BB-obsudili-professionalnoe-razvitie-studentov-i-shkolnikov-stranyi.html">
+            <a class="button_  btn-default" href="https://worldskills.ru/media-czentr/novosti/na-karernom-forume-%C2%ABtrud-krut%C2%BB-obsudili-professionalnoe-razvitie-studentov-i-shkolnikov-stranyi.html">
                 Learn more &raquo;
             </a>
         </p>
@@ -140,7 +140,7 @@
         <!--new paragraph-->
         <p>
             <!--go to similar page-->
-            <a class = "buttonA" href="https://worldskills.ru/media-czentr/novosti/menedzheryi-kompetenczij-i-ekspertyi-vorldskills-rossiya-gotovyatsya-k-startu-novogo-chempionatnogo-sezona-v-vuzax.html">
+            <a class="button_  btn-default" href="https://worldskills.ru/media-czentr/novosti/menedzheryi-kompetenczij-i-ekspertyi-vorldskills-rossiya-gotovyatsya-k-startu-novogo-chempionatnogo-sezona-v-vuzax.html">
                 Learn more &raquo;
             </a>
         </p>
@@ -170,7 +170,7 @@
         <!--new paragraph-->
         <p>
             <!--go to similar page-->
-            <a class = "buttonA" href="https://worldskills.ru/media-czentr/novosti/10-letie-dvizheniya-vorldskills-rossiya-otmetyat-v-saranske-na-yubilejnom-finale-naczionalnogo-chempionata-%C2%ABmolodyie-professionalyi%C2%BB-(worldskills-russia).html">
+            <a class="button_  btn-default" href="https://worldskills.ru/media-czentr/novosti/10-letie-dvizheniya-vorldskills-rossiya-otmetyat-v-saranske-na-yubilejnom-finale-naczionalnogo-chempionata-%C2%ABmolodyie-professionalyi%C2%BB-(worldskills-russia).html">
                 Learn more &raquo;
             </a>
         </p>
@@ -197,7 +197,7 @@
         <!--new paragraph-->
         <p>
             <!--go to similar page-->
-            <a class = "buttonA" href="https://worldskills.ru/media-czentr/novosti/tochka-kipeniya-hi-tech-%C2%ABodk-kuzneczov%C2%BB-otkryilas-v-samare.html">
+            <a  class="button_  btn-default" href="https://worldskills.ru/media-czentr/novosti/tochka-kipeniya-hi-tech-%C2%ABodk-kuzneczov%C2%BB-otkryilas-v-samare.html">
                 Learn more &raquo;
             </a>
         </p>
